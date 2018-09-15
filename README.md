@@ -3,8 +3,9 @@
 Implementation of autonomous car in simulation environment. Self driving car - beahvioural cloning  
 
 ## Simulator
-Udacity self driving car simulator - https://github.com/udacity/self-driving-car-sim
-Builded simulator (executable)
+[Udacity self driving car simulator](https://github.com/udacity/self-driving-car-sim)
+
+Builded simulator (executable):
 
     [Linux](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f0f7_simulator-linux/simulator-linux.zip)
     [macOs](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/5831f290_simulator-macos/simulator-macos.zip)
